@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding only.....:):)
 - 🌱 I’m currently learning how to coding....;);)
 - 💞️ I’m looking to collaborate on coding.....
-- 📫 How to reach me just email me...km645195@gmail.com
+- 📫 How to reach me just email me at 077bcsit016.kaushal@scst.edu.np
 
 <!---
 deadman-kaushal/deadman-kaushal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
