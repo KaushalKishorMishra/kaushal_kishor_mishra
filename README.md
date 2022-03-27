@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deadman-kaushal
+- 👋 Hi, I’m @kaushal_kishor_mishra
 - 👀 I’m interested in coding only.....:):)
 - 🌱 I’m currently learning how to coding....;);)
 - 💞️ I’m looking to collaborate on coding.....
